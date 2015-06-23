@@ -1,3 +1,4 @@
+//added this line at https://github.com/mateenk/CassandraExamples/edit/master/CassandraTemplates/src/main/java/com/kstrata/utility/examples/AllDatatypes.java
 package com.kstrata.utility.examples;
 
 import java.math.BigDecimal;
